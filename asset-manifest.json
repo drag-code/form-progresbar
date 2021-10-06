@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/form-progresbar/static/css/main.5a470ad0.chunk.css",
+    "main.js": "/form-progresbar/static/js/main.b7434582.chunk.js",
+    "main.js.map": "/form-progresbar/static/js/main.b7434582.chunk.js.map",
+    "runtime-main.js": "/form-progresbar/static/js/runtime-main.44069ef2.js",
+    "runtime-main.js.map": "/form-progresbar/static/js/runtime-main.44069ef2.js.map",
+    "static/js/2.f0fd1deb.chunk.js": "/form-progresbar/static/js/2.f0fd1deb.chunk.js",
+    "static/js/2.f0fd1deb.chunk.js.map": "/form-progresbar/static/js/2.f0fd1deb.chunk.js.map",
+    "static/js/3.7c3c3b54.chunk.js": "/form-progresbar/static/js/3.7c3c3b54.chunk.js",
+    "static/js/3.7c3c3b54.chunk.js.map": "/form-progresbar/static/js/3.7c3c3b54.chunk.js.map",
+    "index.html": "/form-progresbar/index.html",
+    "static/css/main.5a470ad0.chunk.css.map": "/form-progresbar/static/css/main.5a470ad0.chunk.css.map",
+    "static/js/2.f0fd1deb.chunk.js.LICENSE.txt": "/form-progresbar/static/js/2.f0fd1deb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44069ef2.js",
+    "static/js/2.f0fd1deb.chunk.js",
+    "static/css/main.5a470ad0.chunk.css",
+    "static/js/main.b7434582.chunk.js"
+  ]
+}
