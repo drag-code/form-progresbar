@@ -1,10 +1,57 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App {
+  margin: 0 auto;
+  max-width: 750px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+}
+
+.form-control {
+  padding: .4em;
+}
+
+.progress {
+  background: #fff;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: 1em;
+  position: relative;
+  border: 1px solid #000;
+  overflow: hidden;
+}
+
+.errors {
+  color: #f00;
+  font-size: .9rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1em 0;
+}
+
+.progress::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  background-color: #155ff1;
+  height: 30px;
+  width: calc(1% * var(--progress, 0));
+}
+
+form {
+  margin-top: 1em;
+}
+
+label {
+  font-weight: bold;
 }
 
 @media (prefers-reduced-motion: no-preference) {
